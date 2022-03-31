@@ -1,5 +1,4 @@
-# samples
-Repository with various samples i used for my blog posts
+# Sample Repositories for my blog posts
 
 ## List
 
