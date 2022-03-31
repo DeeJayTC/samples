@@ -1,2 +1,2 @@
-# samples
-Repository with various samples i used for my blog posts
+# Demonstrate how to create Generic Controllers
+https://www.tcdev.de/generic-controllers-in-net-core
